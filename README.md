@@ -6,9 +6,7 @@ Here are my completed and in-progress projects. The links below will take you to
 - [ReadMore Books Library] (https://github.com/betheducky/read-more-books-library-frontend) (https://github.com/betheducky/read-more-books-library-backend)
 
 - [To-Journal App] IN PROGRESS (https://github.com/betheducky/to-journal-app)
-
-- [Spend-Less Finance Tracker] IN PROGRESS (https://github.com/betheducky/expense-tracker)
-
+  
 
 ## browser-based deployments
 
