@@ -1,4 +1,4 @@
-# arens-projects
+# aren's-projects
 Here are my completed and in-progress projects. The links below will take you to the project's source code or a live deployment of the site.
 
 ## project index
