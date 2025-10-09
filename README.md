@@ -3,9 +3,9 @@ Here are my completed and in-progress projects. The links below will take you to
 
 ## project index
 
-- [ReadMore Books Library]
-    (Frontend) (https://github.com/betheducky/read-more-books-library-frontend) \
-    (Backend) (https://github.com/betheducky/read-more-books-library-backend)
+- [ReadMore Books Library] \
+    [Frontend](https://github.com/betheducky/read-more-books-library-frontend) \
+    [Backend](https://github.com/betheducky/read-more-books-library-backend) \
 
 - [To-Journal App] IN PROGRESS (https://github.com/betheducky/to-journal-app)
   
