@@ -3,7 +3,7 @@ Here are my completed and in-progress projects. The links below will take you to
 
 ## project index
 
-- [ReadMore Books Library] (https://github.com/betheducky/read-more-books-library-frontend)(https://github.com/betheducky/read-more-books-library-backend)
+- [ReadMore Books Library] (https://github.com/betheducky/read-more-books-library-frontend) (https://github.com/betheducky/read-more-books-library-backend)
 
 - [To-Journal App] IN PROGRESS (https://github.com/betheducky/to-journal-app)
 
@@ -12,7 +12,7 @@ Here are my completed and in-progress projects. The links below will take you to
 
 ## browser-based deployments
 
-- [ReadMore Books Library (LIVE)] (https://arenbruce.com/book-search-app)
+- [ReadMore Books Library - LIVE] (https://arenbruce.com/book-search-app)
  
 
 ## WordPress-based deployments
