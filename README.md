@@ -12,12 +12,12 @@ Here are my completed and in-progress projects. The links below will take you to
 
 ## browser-based deployments
 
-- [ReadMore Books Library - LIVE] (https://arenbruce.com/book-search-app)
+- [ReadMore Books Library - *LIVE*] (https://arenbruce.com/book-search-app)
  
 
 ## WordPress-based deployments
 
-- [Local Artist Website - LIVE] (https://thinkdeepermusic.com)
+- [Local Artist Website - *LIVE*] (https://thinkdeepermusic.com)
 
-- [Web Design Business Page - LIVE] (https://handsfreedev.com)
+- [Web Design Business Page - *LIVE*] (https://handsfreedev.com)
 
