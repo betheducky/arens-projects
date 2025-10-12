@@ -5,10 +5,7 @@ Here are my completed and in-progress projects. The links below will take you to
 
 - [ReadMore Books Library]
     ([Frontend](https://github.com/betheducky/read-more-books-library-frontend))
-    ([Backend](https://github.com/betheducky/read-more-books-library-backend))
-
-- [To-Journal App - IN PROGRESS] (https://github.com/betheducky/to-journal-app)
-  
+    ([Backend](https://github.com/betheducky/read-more-books-library-backend))  
 
 ## browser-based deployments
 
