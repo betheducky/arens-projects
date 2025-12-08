@@ -7,8 +7,8 @@ Here are my completed and in-progress projects. The links below will take you to
     ([Frontend](https://github.com/betheducky/read-more-books-library-frontend))
     ([Backend](https://github.com/betheducky/read-more-books-library-backend))
 - [SpendLess Expense Tracker]
-    ([Frontend])
-    ([Backend])  
+    ([Frontend](https://github.com/betheducky/arens-projects)) - IN PROGRESS
+    ([Backend](https://github.com/betheducky/arens-projects))  - IN PROGRESS
 
 ## browser-based deployments
 
