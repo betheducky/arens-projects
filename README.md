@@ -9,6 +9,8 @@ Here are my completed and in-progress projects. The links below will take you to
 - [SpendLess Expense Tracker]
     ([Frontend](https://github.com/betheducky/arens-projects)) - IN PROGRESS
     ([Backend](https://github.com/betheducky/arens-projects))  - IN PROGRESS
+- [Smart Notes]
+    ([Frontend](https://github.com/betheducky/smart-notes-angular))
 
 ## browser-based deployments
 
