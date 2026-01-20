@@ -6,7 +6,7 @@ Here are my completed and in-progress projects. The links below will take you to
 - [ReadMore Books Library]
     ([Frontend](https://github.com/betheducky/read-more-books-library-frontend))
     ([Backend](https://github.com/betheducky/read-more-books-library-backend))
-- [SpendLess Expense Tracker]
+- [E2E Transaction Utility]
     ([Frontend](https://github.com/betheducky/arens-projects)) - IN PROGRESS
     ([Backend](https://github.com/betheducky/arens-projects))  - IN PROGRESS
 - [Smart Notes]
