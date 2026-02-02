@@ -8,7 +8,7 @@ Here are my completed and in-progress projects. The links below will take you to
     ([Backend](https://github.com/betheducky/read-more-books-library-backend))
 - [E2E Transaction Utility]
     ([Frontend](https://github.com/betheducky/e2e-transaction-utility-frontend)) - IN PROGRESS
-    ([Backend](https://github.com/betheducky/arens-projects))  - IN PROGRESS
+    ([Backend](https://github.com/betheducky/e2e-transaction-utility-backend))
 - [Smart Notes]
     ([Frontend](https://github.com/betheducky/smart-notes-angular))
 
